@@ -26,7 +26,7 @@ Each level has specific roles and permissions, ensuring secure and structured ac
 ## Installation & Setup
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/knowsyash/multi-level-authorization.git
+git clone https://github.com/knowsyash/multi_level_authorization_.git
 cd multi-level-authorization
 ```
 
